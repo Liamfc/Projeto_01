@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Liam\Desktop\Exercicios\0-Calculo Produtos++getset+contructor\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+451973580.index
+428325148.index
